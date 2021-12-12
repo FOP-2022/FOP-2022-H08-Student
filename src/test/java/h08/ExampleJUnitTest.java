@@ -1,4 +1,4 @@
-package H08;
+package h08;
 
 import org.junit.jupiter.api.Test;
 
