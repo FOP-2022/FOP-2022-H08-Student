@@ -1,4 +1,4 @@
-package roommanagement;
+package h08.roommanagement;
 
 public class Student {
 
@@ -14,5 +14,4 @@ public class Student {
     public String toString() {
         return "Student{" + "name='" + name + '\'' + ", hasCertificate=" + hasCertificate + '}';
     }
-
 }

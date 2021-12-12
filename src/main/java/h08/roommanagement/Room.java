@@ -1,4 +1,4 @@
-package roommanagement;
+package h08.roommanagement;
 
 public class Room {
 
@@ -14,5 +14,4 @@ public class Room {
     public String toString() {
         return "Room{" + "name='" + name + '\'' + ", numberOfSeats=" + numberOfSeats + '}';
     }
-
 }
