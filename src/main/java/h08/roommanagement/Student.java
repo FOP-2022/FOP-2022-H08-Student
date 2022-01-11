@@ -1,5 +1,8 @@
 package h08.roommanagement;
 
+/**
+ * TODO: H7.
+ */
 public class Student {
 
     public final String name;
